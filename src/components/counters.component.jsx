@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Counter from './counter.component';
 
 class Counters extends Component {
-
      
     render() { 
         return (
